@@ -1,0 +1,14 @@
+layout_spectrum: 0.9245239
+typography_spectrum: 0.5727879
+color:
+  saturation: 0.09757001
+  lightness: 0.4247007
+  brandStrength: 0.1778718
+  rhythmicContrast: 0.5230885
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: BRANDPOINT
